@@ -1,4 +1,5 @@
 Initial commit
 
-
+Writing from branchA
+Writing from branch B
 Writing from branch A again
