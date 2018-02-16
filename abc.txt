@@ -4,3 +4,4 @@ Writing from branchA
 Writing from branch B
 Writing from branch A again
 rebase with source tree
+writing from test branch
